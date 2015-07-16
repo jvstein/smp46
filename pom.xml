@@ -79,7 +79,6 @@
                     <execution>
                         <goals>
                             <goal>compile</goal>
-                            <goal>compile-python</goal>
                         </goals>
                     </execution>
                 </executions>
