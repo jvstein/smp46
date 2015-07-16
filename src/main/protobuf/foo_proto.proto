@@ -1,0 +1,5 @@
+package org.jeffvstein.smp46;
+
+message Foo {
+  optional string test = 1;
+}
